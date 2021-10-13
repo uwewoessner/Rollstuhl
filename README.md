@@ -1,2 +1,2 @@
 # Rollstuhl
-VR interface to wheelchair simulator
+Rollstuhl interface for VR
