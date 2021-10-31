@@ -97,7 +97,7 @@ ESP32Encoder rightEncoder;
 ESP32Encoder leftEncoder;
 debounceButton configButton(PIN_D0);
 
-const int coverPort = 31320;
+const int coverPort = 31319;
 const int pluginPort = 31321;
 WiFiUDP toCOVER;
 IPAddress coverIP((uint32_t)0);
